@@ -9,4 +9,7 @@ body {
 .eggballs {
     color: blueviolet;
     font: normal 24px Comic Sans;
+    border-top-style: groove;
+    border-bottom-style: groove;
+    border: 50px orange;
 }
